@@ -1,6 +1,6 @@
 # EX-02 Implementation of Perceptron for Binary Classification
 ## AIM :
-To implement a perceptron for classification using Python.
+To Implement a Perceptron for Classification Using Python.
 
 ## EQUIPMENTS REQUIRED:
 
